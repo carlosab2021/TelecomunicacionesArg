@@ -161,4 +161,4 @@ Conclusión:
 <p align="justify">Como Data Analyst, mi análisis completo del sector de telecomunicaciones proporciona una comprensión profunda del mercado, orientando a la empresa para ofrecer servicios de alta calidad, identificar oportunidades de crecimiento y brindar soluciones personalizadas que satisfagan las necesidades cambiantes de los consumidores en el dinámico panorama de las telecomunicaciones en Argentina.</p>
 
 
-Se agrega al proyecto el archivo EDA_Telec.ipynb, donde se observa el paso a paso de las extracciones de los datos. [VER EDA]([https://github.com/carlosab2021/TelecomunicacionesArg/blob/main/EDA/EDA_Telec.ipynb])
+Se agrega al proyecto el archivo EDA_Telec.ipynb, donde se observa el paso a paso de las extracciones de los datos. [VER EDA](https://github.com/carlosab2021/TelecomunicacionesArg/blob/main/EDA/EDA_Telec.ipynb)
